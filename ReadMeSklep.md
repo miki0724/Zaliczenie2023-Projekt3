@@ -18,7 +18,7 @@ Commerce
 
 ## General Information
 
-- Strona internetowa sklepu
+- Szkic strony internetowej Commerce, przenosimy produkty do koszyka, zmieniamy ich ilości oraz usuwamy 
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ Commerce
 
 ## Features
 
-mozna kupowac na tej stronce
+przejrzysta strona z której możemy dodawać zakupy do koszyka
 
 ## Screenshots
 
